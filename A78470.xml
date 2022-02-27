@@ -1,0 +1,905 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain elegies upon the death of Peter Whalley Esq; late major of Northampton.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78470</idno>
+            <idno type="STC">Wing C1700B</idno>
+            <idno type="STC">Thomason E912_7</idno>
+            <idno type="STC">ESTC R207542</idno>
+            <idno type="EEBO-CITATION">99866586</idno>
+            <idno type="PROQUEST">99866586</idno>
+            <idno type="VID">118862</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78470)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118862)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 137:E912[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain elegies upon the death of Peter Whalley Esq; late major of Northampton.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signatures: a-b⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whalley, Peter, d. 1656 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="elegies">
+            <pb facs="tcp:118862:1"/>
+            <pb facs="tcp:118862:1" rendition="simple:additions"/>
+            <head>CERTAIN ELEGIES Upon the Death of <hi>PETER WHALLEY</hi>
+               <abbr>Eſq</abbr> late Major of <hi>NORTHAMPTON.</hi>
+            </head>
+            <div type="elegy">
+               <head>Upon the ſudden death of the much lamented Mr <hi>Peter Whalley,</hi> then Major of <hi>Northampton,</hi> 1656.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">C</seg>Ould not the top of Honor, nor of Wit?</l>
+                  <l>Our Patriot from ſo ſudden death acquit?</l>
+                  <l>Could not his Juſtice, Piety, nor Power,</l>
+                  <l>In Court, Town, Country, ſtay his ſoul one hour?</l>
+                  <l>Could not his Office, Friends, nor his dear Wife,</l>
+                  <l>Children, Prayers, Tears, prevail to ſave his life?</l>
+                  <l>No ſooner did the Bridegroom his Soul call,</l>
+                  <l>But ſtraight to follow him, he leaves us all;</l>
+                  <l>Let us not mourn to ſee his Soul thus ſoar,</l>
+                  <l>Who is not loſt, but onely gone before.</l>
+               </lg>
+               <closer>
+                  <signed>B. I.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:118862:2"/>
+               <head>In obitum Digniſſimi viri tam in alios morum ſuavitate, quam ſumma in Deum pie<g ref="char:EOLhyphen"/>tate, <hi>Petri Whalley,</hi> qui Praetor
+<hi>Northam<g ref="char:EOLhyphen"/>ptonienſis</hi> existens fatis conceſsit.</head>
+               <lg>
+                  <l>
+                     <hi>HOs non exornant cineres fuſae arte Columna,</hi>
+                  </l>
+                  <l>
+                     <hi>Verba nec ex auro, marmore ſculpta nigro;</hi>
+                  </l>
+                  <l>
+                     <hi>Dicere (qui fuerat) ſunt haec inidonea prorſus</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>traque, nec meritum juſta referre ſuum.</hi>
+                  </l>
+                  <l>
+                     <hi>Editus à Civi fuit hîc utroque parente,</hi>
+                  </l>
+                  <l>
+                     <hi>Munia &amp; hac noſtrâ ſuſtulit urbe benè.</hi>
+                  </l>
+                  <l>
+                     <hi>Conſulis officium longò hinc cum laude ſubivit,</hi>
+                  </l>
+                  <l>
+                     <hi>Factus &amp; ad duplicem Praetor in urbe vicem.</hi>
+                  </l>
+                  <l>
+                     <hi>Primus hic it praeſens &amp; quinquageſimus annus,</hi>
+                  </l>
+                  <l>
+                     <hi>Vita nec exactis tot<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> diebus adhuc.</hi>
+                  </l>
+                  <l>
+                     <hi>Hen minus expleto naturae cederet actu,</hi>
+                  </l>
+                  <l>
+                     <hi>Ceu Roſa praeproperâ verna revulſa manu.</hi>
+                  </l>
+                  <l>
+                     <hi>Hinc lachrymae, hinc gemitus noſtrates plura quòd aeva</hi>
+                  </l>
+                  <l>
+                     <hi>Corvus agit, paucos caſta Columba dies,</hi>
+                  </l>
+                  <l>
+                     <hi>Exprimit infandum vicinia tota dolorem,</hi>
+                  </l>
+                  <l>
+                     <hi>Ruſtica plebs gemitum dat replicat<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſuum.</hi>
+                  </l>
+                  <l>
+                     <hi>Inſequitur lachrymis lectiſſima funera conjux,</hi>
+                  </l>
+                  <l>
+                     <hi>Defunctum deflent pignora chara patrem</hi>
+                  </l>
+                  <l>
+                     <hi>Juſta ſequens madidis Clerus Comitatus Ocellis,</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>rbs ſibi majorem flet<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> dolet<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> pium.</hi>
+                  </l>
+                  <l>
+                     <hi>Omnia maeſtitiam ſapiunt, Domus ipſa parentat,</hi>
+                  </l>
+                  <l>
+                     <hi>Induitur Limbum parma Whalaea nigrum.</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>tque nihil deſit noſtratia fata referre,</hi>
+                  </l>
+                  <l>
+                     <hi>Non cohibet lachrymas aethera pulla crebras.</hi>
+                  </l>
+               </lg>
+               <closer>
+                  <signed>Th. M.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:118862:2"/>
+               <head>Upon the pious Life, and ſudden Death of his Dear Brother Mr <hi>Peter Whalley</hi> Major of <hi>Northampton,</hi> and late Burgeſs in Parliament, who died <hi>April</hi> 8. 1656. <hi>Aetatis ſuae,</hi>
+50.</head>
+               <lg>
+                  <l>BLame not our ſighs and tears, when ye</l>
+                  <l>So many dead in one ſhall ſee;</l>
+                  <l>A zealous active Magiſtrate,</l>
+                  <l>To his dear Wife a loving Mate;</l>
+                  <l>His Childrens Crown, the Town's delight,</l>
+                  <l>He ſerv'd good men with all his might,</l>
+                  <l>The Clergies joy, and Real Friend,</l>
+                  <l>Religions Patron to his End;</l>
+                  <l>Comfort to th' Poor, reliev'd the Oppreſt,</l>
+                  <l>The Tongues and Hearts of (All) him bleſt,</l>
+                  <l>His Countries guide, an help to (All)</l>
+                  <l>Thouſands lament his ſudden fall:</l>
+                  <l>Yet happy, He is now aſcended,</l>
+                  <l>His joy begun, his work is ended.</l>
+                  <l>His God, his Country, and his Friend,</l>
+                  <l>He lov'd, and ſerv'd unto his End.</l>
+               </lg>
+               <closer>
+                  <signed>W. H.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <head>Chronogramma Enchomiaſticon in imma<g ref="char:EOLhyphen"/>turum obitum digniſsimi viri <hi>Petri Whalley</hi> qui ſexto Idus Apr. <hi>An. Dom.</hi> 1656. fato ceſſit.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>831</cell>
+                        <cell>
+                           <l>
+                              <hi>qVICqVID eſt tIbI terrenI SVCCVbVIt fato,</hi>
+                           </l>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>173</cell>
+                        <cell>
+                           <l>
+                              <hi>Ingent IqVe ſepVLChro frVItVr.</hi>
+                           </l> 
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>527</cell>
+                        <cell>
+                           <l>
+                              <hi>aſt VIrtVs tVa pietaſqVe VeneranDa</hi>
+                           </l>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>125</cell>
+                        <cell>
+                           <l>
+                              <hi>erVnt VICtores ſVbItI praeFproperIqVe fatI.</hi>
+                           </l>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>1656</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <closer>
+                  <hi>Sub hoc velo tegitur</hi>
+                  <signed>I. H.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:118862:3"/>
+               <head>
+                  <hi>M. S.</hi> Upon the much lamented death of my worthy Friend, Mr <hi>Peter Whalley.</hi>
+               </head>
+               <lg>
+                  <l>WHere are thoſe Pyramids, whoſe envious height</l>
+                  <l>Challeng'd the clouds and did obſcure the light?</l>
+                  <l>Where is the tombe of <hi>Mauſolus,</hi> which gave</l>
+                  <l>His noble aſhes a renowned grave?</l>
+                  <l>Where are the walls of <hi>Babel?</hi> Or the Shrines</l>
+                  <l>Of great <hi>Lucina,</hi> Goddeſs of thoſe times?</l>
+                  <l>Alas! theſe Wonders long ago did die,</l>
+                  <l>And in their ruines cry—.Mortality.</l>
+                  <l>The Spade of Time rides triumph in their date,</l>
+                  <l>And in their Aſhes writes a humane fate.</l>
+                  <l>Well: be it ſo; let death contrive a Tombe,</l>
+                  <l>For what the brain of man, or elſe the Wombe</l>
+                  <l>Is parent of; yet ſhall thy Vertue ſhine,</l>
+                  <l>Among the Stars, and conquer death and Time.</l>
+                  <l>Thy active ſoul, which was no child of Earth,</l>
+                  <l>But is the off ſpring of a purer birth,</l>
+                  <l>Shall laugh at fear; and fill'd with ſacred fire,</l>
+                  <l>Sing <hi>Hallelujahs</hi> in the Angels quire.</l>
+                  <l>Thy ſpotleſs Fame ſhall ſoar with her white wings,</l>
+                  <l>Above the clouds of Envy, whilſt ſhe ſings</l>
+                  <l>Thy Panegyrick, and in welcome layes</l>
+                  <l>Re-crowns thy Herſe, with her immortall Bayes.</l>
+                  <l>And thus thy Soul, thy Vertue, and thy Fame,</l>
+                  <l>Shall not be ſubject to a mortall Name.</l>
+               </lg>
+               <closer>
+                  <hi>Ita flevit,</hi>
+                  <signed>
+                     <hi>John Howes</hi> Miniſter of Gods Word at
+<hi>Abington.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:118862:3"/>
+               <head>A Threne upon the much lamented Death of my worthily Honoured and Dear Friend (Of Pious and Fragrant Memory) Mr <hi>PETER WHALLEY,</hi> then Major (the ſecond time) of <hi>Northampton,</hi> &amp;c. Expreſſed under the Scheme of a Dialogue, <hi>Inter indignum quendam defuncti Amicum, &amp; loci Genium.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>Amicus.</hi> WHat means this Face of things! how is thy Brow</l>
+                  <l>(Fair City) clouded, that was clear but now!</l>
+                  <l>What penſiveneſs is this?—Whence iſſuing</l>
+                  <l>Are all theſe Briny Floods?—Ah,—Where's the Spring?</l>
+                  <l>What ſtrange amuſing ſighs are heard! What moan</l>
+                  <l>From every Breſt, accented with a Groan!</l>
+               </lg>
+               <lg>
+                  <l>Ah! What ſad direful <hi>Omen</hi> boadeth this</l>
+                  <l>So ſudden ghaſtly Metamorphoſis?</l>
+                  <l>If in thine eyes a ſtranger may finde grace,</l>
+                  <l>Tell me thou friendly <hi>Genius</hi> of the place.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Genius</hi> O ceaſe enquiry; Shallow-Grief may ſpeak:</l>
+                  <l>Sure that is tongue-ty'd which the heart doth break.</l>
+               </lg>
+               <lg>
+                  <l>But ſince thy Brim-full watry eyes bewray,</l>
+                  <l>A Sympathy in ſadneſs with the Day:</l>
+                  <l>Come; let us mingle tears:—Its ſome releif,</l>
+                  <l>To have Companions with us in our grief.</l>
+                  <l>Our angry Fate inverts the Proverb thus:</l>
+                  <l>
+                     <hi>The more, The Sadder,</hi> Therefore joyn with us.</l>
+               </lg>
+               <lg>
+                  <l>What! the lov'd Husband new bereav'd of life</l>
+                  <l>Not ſtrike amazement in the Loyal Wife!</l>
+                  <l>Shall Orphan-Children ſee before them lie</l>
+                  <l>The Carkaſs of a Father,—and not cry!</l>
+                  <pb facs="tcp:118862:4"/>
+                  <l>Nay,—Shall the Head lye ſever'd on the ground,</l>
+                  <l>And the pale Trunk not die into a ſwound!</l>
+               </lg>
+               <lg>
+                  <l>Such is thy Fate (ſad Town)—this day in thee</l>
+                  <l>Thy Husband, Father, Head, doth ceaſe to be:</l>
+                  <l>More I would ſay,—but ſadneſs hath oppreſt</l>
+                  <l>My ſtrugling Soul;—let me groan out the reſt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Amicus.</hi> Whats this I hear! Good <hi>Genius</hi> recollect,</l>
+                  <l>And do not thus my frighted ſenſe affect.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Gen.</hi> Ah—wretched me! He's gone!
+<hi>(Amic.)</hi> What he is that?</l>
+                  <l>Un-caſe thy minde: Thy tropes Enucleat.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Gen.</hi> Ah, He is gone! the Ornament, the Gem</l>
+                  <l>Within this City-circling Diadem!</l>
+                  <l>The Soul within this body, and the clear</l>
+                  <l>Moving Intelligence of this our Sphere!</l>
+                  <l>Ah! Had he liv'd <hi>(Northampton)</hi> thy bleſt ſtate</l>
+                  <l>Had rais'd thee emulation, but not hate.</l>
+                  <l>Thy Induſtry had ſurely ſprung the Mine</l>
+                  <l>Within the Channel of the Silver Nine:</l>
+                  <l>Whilſt he by lawful Magick did contend,</l>
+                  <l>That Fier out of Water might aſcend.</l>
+                  <l>Ah! Had he liv'd; Thy Vertue, Piety,</l>
+                  <l>Thy Zeal to ſound Religious Honeſty,</l>
+                  <l>Thy equall Juſtice, candid innocence,</l>
+                  <l>Had ſtill prolong'd thy Glory, thy defence.</l>
+               </lg>
+               <lg>
+                  <l>But ah! <hi>Troy</hi> was! Thy Crown is fall'n, and now</l>
+                  <l>Deſpair and Horrour ſits upon thy brow:</l>
+                  <l>Thy Scarlets turn'd to Sables, and thy Pride,</l>
+                  <l>The Faſces and Securis laid aſide.</l>
+                  <l>Thy crabbed Lictors now can skill to weep,</l>
+                  <l>And Praeficae are found in every Street.</l>
+                  <l>Hark! Doſt not hear the ſlowly ſwinging Bell</l>
+                  <l>Ring out, with ſullen-Roar, a doleful knell?</l>
+                  <l>Prepare thy heart, prepare thy fluent eyes,</l>
+                  <l>To celebrate his laſt ſad Excquies.</l>
+                  <l>Thy pious, prudent Praetor, Major. Head,</l>
+                  <l>Conſul, and Father, The lov'd <hi>Whalley's</hi> dead!</l>
+                  <pb facs="tcp:118862:4"/>
+                  <l>Break ope the Flood-gates, let the Sluces go,</l>
+                  <l>Create, from Living Springs a Deluge ſo;</l>
+                  <l>Then mingle Streams with <hi>Nine</hi> (ſubdue thy Fears)</l>
+                  <l>And make it <hi>navigable</hi> with thy Tears.</l>
+               </lg>
+               <lg>
+                  <l>That <hi>Fluid Chryſtal</hi> of his <hi>Name</hi> ſhall be</l>
+                  <l>The <hi>Monument</hi> to late Poſterity.</l>
+                  <l>
+                     <hi>Amic.</hi> Was this the <hi>Omen!</hi> Is it ſo! then
+<hi>Genius</hi> farewel,</l>
+                  <l>I'le try what I (alone) can do, in ſome dark gloomy Cell.</l>
+               </lg>
+               <closer>
+                  <hi>Haec, gemitus inter &amp; ſingultus anhelans, Flevit</hi>
+                  <signed>F. A.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <head>To the memory of his Pious and Pru<g ref="char:EOLhyphen"/>dent Friend Mr <hi>Peter Whalley</hi> late Major of <hi>Northampton.</hi>
+               </head>
+               <lg>
+                  <lg>
+                     <l>HE that but little skills to make a Verſe,</l>
+                     <l>Is preſt to pay ſome duty to this Herſe;</l>
+                     <l>Sad is the Subject, ſo's our Verſe; but know</l>
+                     <l>Loſers have leave to talk, that feel the Blow;</l>
+                     <l>Affection makes the Poet now, not Wit;</l>
+                     <l>Light trimming mourning weeds can never fit.</l>
+                  </lg>
+                  <lg>
+                     <l>Lo here the Ruines of a Casket lies,</l>
+                     <l>That late contain'd a Pearl of goodly Prize;</l>
+                     <l>The Pearl's dropt out indeed, but by Remove</l>
+                     <l>Of Bleſſed Angels now 'tis fixt above,</l>
+                     <l>That's ſafe; 'tis we the loſers are alone,</l>
+                     <l>In black and white, thus come to make our moan.</l>
+                  </lg>
+                  <lg>
+                     <l>Here lately ſhone thoſe Graces from above,</l>
+                     <l>Well temper'd Zeal, with Knowledge, Faith, and Love,</l>
+                     <l>With Temperance, Meekneſs, Patience, Moderation,</l>
+                     <l>The bleſſed Spirit there took up his ſtation;</l>
+                     <l>His Publike cares, his Private him commend,</l>
+                     <l>He was the Churches Nurſe, the Good mans Friend.</l>
+                     <pb facs="tcp:118862:5"/>
+                     <l>
+                        <hi>P.</hi> Plain, Pious, Prudent, Peaceful was his Praiſe,</l>
+                     <l>
+                        <hi>W.</hi> Wife, Well-bred, Willing, Watchful in his Waies.</l>
+                  </lg>
+                  <lg>
+                     <l>He's now to Duſt returning: Ah the day,</l>
+                     <l>That turn'd this Gold into a lump of Clay,</l>
+                     <l>But ſo the choiceſt Trees cull'd out we find,</l>
+                     <l>When Thorny Shrubs enow are left behind:</l>
+                     <l>
+                        <hi>Northampton</hi> ſit 'ith Duſt, cauſe there he lies;</l>
+                     <l>And now you have loſt your Head, don't ſpare your Eyes.</l>
+                     <l>The faireſt Fabricks fall to ruine muſt,</l>
+                     <l>Whoſe Pillars crack, and crumble thus to duſt.</l>
+                  </lg>
+                  <lg>
+                     <l>Come Leveller, Death leads thy Van away,</l>
+                     <l>Black Coats and Scarlet Gowns ſhall Homage pay</l>
+                     <l>To his commanding Rod of Sequeſtration,</l>
+                     <l>Such Men, ſuch Chriſtians, don't become the Nation;</l>
+                     <l>What duſt-heaps makes he of the choiceſt ſort!</l>
+                     <l>To kill poor Flies, and Beetles 'tis no ſport;</l>
+                     <l>Grim death of late does ſure purſue their cries,</l>
+                     <l>Who ſcorn dominion, kick at Dignities;</l>
+                     <l>Or elſe with Hell combines to part the fray,</l>
+                     <l>To rout the Good, that Hell may win the day;</l>
+                     <l>No, no, Deaths errand is from Heaven, and we</l>
+                     <l>More ſober, ſtand amaz'd ſuch change to ſee;</l>
+                     <l>Sad <hi>Omen.</hi> ſuch Eclipſes boad no doubt.</l>
+                     <l>When Lanthorns break to pieces, Lights go out;</l>
+                     <l>Some ſtorms will follow ſure this Thunder-clap,</l>
+                     <l>Judgements break in, when <hi>Moſes</hi> leaves the gap:</l>
+                     <l>When Guides and Shepherds in their Beds are laid,</l>
+                     <l>Poor wandring Sheep of Wolves may be afraid;</l>
+                     <l>Yet don't deſpond, though Conduits broken are,</l>
+                     <l>Gods Fountain's full, theſe Breaches hee'l repair;</l>
+                     <l>Sad Mourners, ſpend your tears on ſin; You then</l>
+                     <l>Shall bleſt be here, or elſe with him agen.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <pb facs="tcp:118862:5"/>
+                  <head>
+                     <g ref="char:V">Ʋ</g>pon his ſudden Departure.</head>
+                  <l>O that our Fate in's loſſe betimes we knew,</l>
+                  <l>That tri'd we might what prayers and tears could do;</l>
+                  <l>This ſudden blow had we but fear'd before,</l>
+                  <l>We ſhould have griev'd the leſs, but pray'd the more:</l>
+                  <l>Heavens wiſe diſpoſing hand, decreed it ſo,</l>
+                  <l>The ſhorteſt cut to glory he ſhould go;</l>
+                  <l>Say not 'twas ſudden Death, but all in haſt</l>
+                  <l>He took his leave, his time was over-paſt;</l>
+                  <l>His work being done, he gently ſteals away,</l>
+                  <l>Cull'd out, he lingers not, nor makes delay:</l>
+                  <l>No Feaveriſh heats his fainting Limbs muſt burn,</l>
+                  <l>And melt by drops this gold into its Urn,</l>
+                  <l>No Dropſies cold, nor Agues rackt his bones,</l>
+                  <l>No Atrophie drill'd out his life in groans;</l>
+                  <l>He's well, a Summons comes, he turns aſide,</l>
+                  <l>Like <hi>Moſes</hi> meek, onely went up and di'd.</l>
+                  <l>
+                     <hi>Romes</hi> Imperator often wiſh'd to be</l>
+                  <l>Poſted away by ſuch Euthanaſie,</l>
+                  <l>And yet his Pilgrim ſoul could little know,</l>
+                  <l>Whither when outed hence, it then ſhould go;</l>
+                  <l>Much better He, that heaven hath ſure in's Eye,</l>
+                  <l>May wiſh, not fear at leaſt, thus quick to die;</l>
+                  <l>Dejected ſeldome he, who daily dies:</l>
+                  <l>Death laid in ambuſh cannot him ſurprize.</l>
+                  <l>'Tis not a body craz'd, but ſoul that's ſound,</l>
+                  <l>That for departure hence ſtands ready bound;</l>
+                  <l>Conſumptive pains not alwaies waſt the ſin;</l>
+                  <l>A Life well led, Death only welcomes in.</l>
+                  <l>Peace then in this, no more lament at all;</l>
+                  <l>Who waits his change as he, can never fall.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:118862:6"/>
+                  <head>Upon his Interring in the Church of <hi>All-Saints</hi> in
+<hi>Northampton.</hi>
+                  </head>
+                  <l>BUt ſay where ſhall this ſacred duſt</l>
+                  <l>Lie till the raiſing of the Juſt?</l>
+                  <l>This cloſe lodg'd Gueſt, where ſhall he be</l>
+                  <l>Hid for this Worlds eternity?</l>
+                  <l>What ſtructure's this? to whom related?</l>
+                  <l>Fame tels to Saints 'twas dedicated;</l>
+                  <l>If All Saints here a part ſhould have,</l>
+                  <l>Saint <hi>Peter</hi> then may claim a Grave;</l>
+                  <l>'Tis not that Apoſtolike he</l>
+                  <l>Lies here, yet <hi>Peter</hi> 'tis you ſee,</l>
+                  <l>And Saint he was ſincerely true,</l>
+                  <l>Saint <hi>Peter</hi> then may be his due;</l>
+                  <l>What ere he was, one part you ſee</l>
+                  <l>Here wrapt up in Mortality,</l>
+                  <l>His better part to God is gone,</l>
+                  <l>His Warfare's finiſht, work is done.</l>
+                  <l>Bleſt ſoul adieu, our loſs's thy gain,</l>
+                  <l>Thy pleaſure's full, while we in pain.</l>
+                  <l>Impartial Fame ſhall dreſſe thy ſtory,</l>
+                  <l>Thy Name lives here, thy ſoul in glory.</l>
+               </lg>
+            </div>
+            <div type="elegy">
+               <head>
+                  <hi>PETER WHALLEY</hi> Anagram <hi>They Reap Well.</hi>
+               </head>
+               <lg>
+                  <l>THey Reap well</l>
+                  <l>That Heaven obtain;</l>
+                  <l>Who ſow like thee,</l>
+                  <l>Ne'r ſow in vain.</l>
+               </lg>
+            </div>
+            <div type="elegy">
+               <pb facs="tcp:118862:6"/>
+               <head>On the Life, and ſudden Death of my Dear Brother, Mr
+<hi>Peter Whalley.</hi>
+               </head>
+               <lg>
+                  <l>REader, Vouchſafe to know before thou paſſe,</l>
+                  <l>Whom th'Church, the Town, and County loſt: He was</l>
+                  <l>A Magiſtrate fill'd with a publike minde,</l>
+                  <l>To all's private relations dear and kinde.</l>
+                  <l>Helpful to th' poor, to Friends he faithful prov'd,</l>
+                  <l>Honeſt to all, of honeſt men belov'd;</l>
+                  <l>Fixt in OLD Truths, when Times for NEW Truths were;</l>
+                  <l>He made both Church and Miniſtry his care.</l>
+                  <l>He ſerv'd his God, though's buſines did abound,</l>
+                  <l>When his Lord call'd, he was SO DOING found.</l>
+               </lg>
+               <lg>
+                  <head>On his ſudden Death.</head>
+                  <lg>
+                     <l>Although the ſacred Preacher cannot lye,</l>
+                     <l>Yet this Good Man ſearce found
+<note n="*" place="margin">Eccleſ. 3.2.</note> a Time to die.</l>
+                     <l>Was his departure ſtrange, not being ſick?</l>
+                     <l>God made it eaſie, as Death made it quick.</l>
+                     <l>His death was ſuch that 't may almoſt be ſaid,</l>
+                     <l>As <hi>Paul</hi> of ſome, he's rather chang'd then dead.</l>
+                     <l>He dy'd like <hi>Moſes,</hi> with this difference ſtill,</l>
+                     <l>
+                        <hi>Moſes</hi> went up, and he went
+<note n="*" place="margin">He died in an houſe ſtand<g ref="char:EOLhyphen"/>ing at the bot<g ref="char:EOLhyphen"/>tom of an high hill, which hill he walk<g ref="char:EOLhyphen"/>ed down a lit<g ref="char:EOLhyphen"/>tle before his death.</note> down the hill.</l>
+                     <l>Though when death came, he was i'th bottom found,</l>
+                     <l>His active ſoul, ſoon got the higher ground.</l>
+                     <l>Whilſt others fet a compaſſe, here is one,</l>
+                     <l>That unto heaven the next way is gone,</l>
+                     <l>Though in this race, others with him begun,</l>
+                     <l>Yet all quite out of diſtance hath he run.</l>
+                     <l>Like Snails we duller mortals do but creep,</l>
+                     <l>But he he hath done it with a running leap.</l>
+                     <l>Death ſtole behind, as if it ſelf him fear'd,</l>
+                     <l>Knowing he was before-hand well prepar'd.</l>
+                  </lg>
+                  <lg>
+                     <l>His being ſlipt ſo ſoon out of this life,</l>
+                     <l>Twix: Saints and Angels did prevent a ſtrife;</l>
+                     <pb facs="tcp:118862:7"/>
+                     <l>They would have held him here to help them ſtill,</l>
+                     <l>Theſe would remove him hence their quire to fill;</l>
+                     <l>Should all wear blacks that have a cauſe to mourn,</l>
+                     <l>The Sun it ſelf muſt into darkneſs turn,</l>
+                     <l>And the black night a blacker garment have,</l>
+                     <l>So all this World be but as <hi>Whalleys</hi> grave;</l>
+                     <l>Should all due tears be ſhed from clouds and men,</l>
+                     <l>A ſecond Flood would drown the World agen.</l>
+                  </lg>
+               </lg>
+               <closer>
+                  <signed>I. H.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <head>An Elegie on the ſudden and much to be lamented death of
+<hi>Peter Whalley</hi> 
+                  <abbr>Eſq</abbr> twice Major of <hi>Northampton,</hi> and late<g ref="char:EOLhyphen"/>ly Burgeſs for the Corporation, who to the publique grief departed this life, <hi>April</hi> 8. 1656.</head>
+               <lg>
+                  <l>IF Love or Honour could exempt from death,</l>
+                  <l>Then hadſt thou ſtill enjoy'd thy vital breath.</l>
+                  <l>If Friends or prayers could ſubdue the grave,</l>
+                  <l>Then thou on earth another life ſhould'ſt have.</l>
+                  <l>But ſince no love, nor honour, friends or prayers</l>
+                  <l>Can life reſtore; let us in floods of tears,</l>
+                  <l>Lament our loſs, and with affection mourn,</l>
+                  <l>Becauſe the Head is from our Body torn.</l>
+                  <l>A good man's gone, like <hi>Enoch</hi> in great haſte;</l>
+                  <l>Oh cruel death forbear, make not ſuch waſte.</l>
+                  <l>He was a godly man of unſtain'd life,</l>
+                  <l>A friend to peace, an enemy to ſtrife;</l>
+                  <l>A publique-ſpirited man, made up of Love,</l>
+                  <l>Wiſdome and meekneſs, graces from above.</l>
+                  <l>He was a Pillar, yea a corner ſtone,</l>
+                  <l>A Major, a Burgeſs, fit for <hi>Northampton.</hi>
+                  </l>
+                  <l>An active-ſpirited man in Church and ſtate,</l>
+                  <l>Prized by godly men at a high rate.</l>
+                  <l>A tender-hearted man unto the poor,</l>
+                  <l>And open-handed to them at his door.</l>
+                  <pb facs="tcp:118862:7"/>
+                  <l>A <hi>Phinehas</hi> for his zeal, like <hi>Moſes</hi> right,</l>
+                  <l>He led the people, till called out of ſight;</l>
+                  <l>Like <hi>David,</hi> faithful to his friend, like
+<hi>Paul</hi>
+                  </l>
+                  <l>Diſcharged a good Conſcience unto all.</l>
+                  <l>He living walkt with God, and now he's dead,</l>
+                  <l>The grave is to his body like a bed,</l>
+                  <l>Whilſt his refined ſoul mounts to the skie,</l>
+                  <l>Clothed with glory, and eternity.</l>
+               </lg>
+               <closer>
+                  <signed>Samuel Cibs.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <head>In Obitum Chariſſimi Patris mei, <hi>Petri Whallaei</hi> Armigeri, Qui hujus vitae limi<g ref="char:EOLhyphen"/>na diſſeruit, Sexto Iduum Aprilis, An. Dom.
+1656.</head>
+               <lg>
+                  <l>
+                     <hi>EN! Petra, percutitur, Lachrymarum hinc effluit amnis,</hi>
+                  </l>
+                  <l>
+                     <hi>Ex oculis Guttae fluminis inſtar eunt.</hi>
+                  </l>
+                  <l>
+                     <hi>Ecce! Genas fletu conjux tua chara rigavit:</hi>
+                  </l>
+                  <l>
+                     <hi>En hic! En illic! Quae<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> latebra dolet;</hi>
+                  </l>
+                  <l>
+                     <hi>Eruptis Lachrymis diffundit turba ſepulchrum,</hi>
+                  </l>
+                  <l>
+                     <hi>Acriter exululans, hîc jacet <g ref="char:V">Ʋ</g>rbis Honos.</hi>
+                  </l>
+                  <l>
+                     <hi>Nos tam foelices, donec te fata vocabant!</hi>
+                  </l>
+                  <l>
+                     <hi>Jam<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> jacent tumulo gaudia noſtra tuo.</hi>
+                  </l>
+                  <l>
+                     <hi>Quis fueris conſtat; lachrymis agnoſceris illis,</hi>
+                  </l>
+                  <l>
+                     <hi>Non tibi chara magis conjuge vita fuit.</hi>
+                  </l>
+                  <l>
+                     <hi>Singulus Sobolis Patrem teſtantur amantem,</hi>
+                  </l>
+                  <l>
+                     <hi>Dum deflent populi te quaſi Semideum.</hi>
+                  </l>
+                  <l>
+                     <hi>Praeſidium miſeris, Patriae Tutela fuiſti:</hi>
+                  </l>
+                  <l>
+                     <hi>Quis ſcit an &amp; manes hic quoque tangat honos!</hi>
+                  </l>
+                  <l>
+                     <hi>Ibat ad occaſum ſic Lux clariſſima Gentis,</hi>
+                  </l>
+                  <l>
+                     <hi>Et ſanctum Tumuli condidit umbra caput;</hi>
+                  </l>
+                  <l>
+                     <hi>Si tamen illius meritis Par vita daretur,</hi>
+                  </l>
+                  <l>
+                     <hi>Non niſi cum mundo debuit ille mori.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>In Eundem.</head>
+                  <l>
+                     <hi>Vita fuit Chriſti, tua gloria; Mors, tibi lucrum:</hi>
+                  </l>
+                  <l>
+                     <hi>Fit tua vita, Dei gloria, Morſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> tui:</hi>
+                  </l>
+                  <pb facs="tcp:118862:8"/>
+                  <l>
+                     <hi>Audax ante diem ſic Mors tua lumina clauſit,</hi>
+                  </l>
+                  <l>
+                     <hi>At ſibi Mors nunquam plus licuiſſe putet.</hi>
+                  </l>
+                  <l>
+                     <hi>Nunc habitas cives inter ſtellantis Olympi,</hi>
+                  </l>
+                  <l>
+                     <hi>Vitae<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> aeternae Gloria Chriſtus erit.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <lg>
+                     <l>Thy Saviours Life, thy Glory was,</l>
+                     <l>His ſhameful Death thy gains;</l>
+                     <l>Thy life (bleſt Saint) Chriſts glory was,</l>
+                     <l>By Death thy life remains.</l>
+                  </lg>
+                  <lg>
+                     <l>Why cruel death before due time,</l>
+                     <l>Didſt cloſe his glorious eyes?</l>
+                     <l>O think not to repeat thy crime,</l>
+                     <l>Gods Saints muſt ſhortly riſe.</l>
+                  </lg>
+                  <lg>
+                     <l>His Bleſſed Soul's in Heaven above,</l>
+                     <l>'Mongſt the Celeſtial Train,</l>
+                     <l>Where Chriſt imparts out of his Love</l>
+                     <l>Glory to him again.</l>
+                  </lg>
+               </lg>
+               <closer>
+                  <signed>N. Whalley.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <head>An Elogie upon the Death of his Dear and ever Honoured Father Mr <hi>PETER WHALLEY.</hi>
+               </head>
+               <lg>
+                  <l>TWill not excuſe to ſay I have no vain</l>
+                  <l>Of Poetry; who is there can refrain,</l>
+                  <l>When ſuch friends fall, and death ambitious how</l>
+                  <l>To raiſe his Triumph, makes ſuch Worthies bow?</l>
+                  <l>Who would not try to ſigh and ſob a Verſe,</l>
+                  <l>When 'tis t' attend, and wait upon this Herſe?</l>
+                  <l>When Death arreſts (I ſee) and calls away,</l>
+                  <l>Goodneſs can't bail, nor vertue cauſe delay;</l>
+                  <pb facs="tcp:118862:8"/>
+                  <l>Death was too quick for us, not him; but ſtay,</l>
+                  <l>He did not kill, but ſtole this prize away:</l>
+                  <l>Death knew he was prepar'd, and therefore ſent</l>
+                  <l>No Gout to tell him that he muſt repent;</l>
+                  <l>A tedious ſickneſs had his friends more griev'd,</l>
+                  <l>He then had longer di'd, not longer liv'd.</l>
+                  <l>There's none will blame a wind, 'cauſe it doth ſend</l>
+                  <l>Their Ship too ſoon unto their journies end;</l>
+                  <l>He now a journey took, who oft did go</l>
+                  <l>To <hi>Englands</hi> City, now goes to Heavens too.</l>
+                  <l>Beſt things not always laſt the longeſt, ſo</l>
+                  <l>Silks will out ſooner wear then wool or toe.</l>
+                  <l>Nay it had injur'd his high ſoul to wear</l>
+                  <l>His body till his fleſh had look'd thredbare.</l>
+                  <l>Since he muſt go, with us no longer ſtay,</l>
+                  <l>Death was his friend to guide the neereſt way.</l>
+                  <l>He only ſlept in haſte, as if to die</l>
+                  <l>Had no departure been but extaſie;</l>
+                  <l>The key of Mercy gently did unlock</l>
+                  <l>The door 'twixt heaven and it when life did knock;</l>
+                  <l>We weep not therefore for his loſſe, but ours</l>
+                  <l>Which is ſo great; drops will not ſerve but ſhowers.</l>
+                  <l>Our father's dead! ours is the grief, and then</l>
+                  <l>How vaſt it is, that neither tongue nor pen,</l>
+                  <l>Is able to expreſs, alas, and I</l>
+                  <l>Can onely ſhadow forth our miſery!</l>
+                  <l>Ah! who can grieve with us poor ſouls, whoſe grief</l>
+                  <l>Admits no equall, but tranſcends belief.</l>
+                  <l>Our deareſt Father, in whoſe breaſt did lie</l>
+                  <l>Our life, is fled into Eternity.</l>
+                  <l>The Child, the Widow, weep with equall ſtrife,</l>
+                  <l>Who ſhould weep moſt, his children or his wife.</l>
+                  <l>Come weep with us, who ever reads or hears,</l>
+                  <l>And know his loſs deſerves his Countries tears.</l>
+                  <l>The Church hath loſt a Patron, by his Fate,</l>
+                  <l>A Friend his Countrey, and a prop the State:</l>
+                  <l>Who would not therefore now, if Vertues friend,</l>
+                  <l>Bewail his ſudden unexpected end?</l>
+                  <pb facs="tcp:118862:9"/>
+                  <l>Who has ſuch hard, ſuch unrelenting eyes</l>
+                  <l>As would not weep, when ſo much vertue dyes?</l>
+                  <l>But he is gone; our task's to imitate</l>
+                  <l>What he was doing till he was ſtopt by fate.</l>
+                  <l>Our future vertuous deeds are Legacies,</l>
+                  <l>Which from the gift of his example riſe.</l>
+                  <l>God grant that I whom Nature made his Son</l>
+                  <l>May be (like him) until my race be run;</l>
+                  <l>So faithful to my God, Church, Countrey, Friend,</l>
+                  <l>And all concern'd Relations to</l>
+                  <trailer>The End.</trailer>
+               </lg>
+               <closer>
+                  <signed>P. W. <hi>Peter Whalley,</hi> Anagram <hi>A Whyte Perle.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <pb facs="tcp:118862:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
